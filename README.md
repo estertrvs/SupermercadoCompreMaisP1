@@ -3,10 +3,6 @@
 Bem-vindo ao repositório **SupermercadoCompreMaisP1**! Este projeto foi desenvolvido em Python, com o objetivo de testar os conhecimentos gerais em lógica de programação ensinados durante a disciplina de Progrmação 1.
 
 ## 🚀 Funcionalidades
-1-Listar produtos
-2-Adicionar produto ao carrinho
-3-Ver carrinho
-4-Finalizar compra
 
 - **Listar produtos:**
   - Lista os produtos disponíveis no mercado com seus respectivos valores.
